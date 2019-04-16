@@ -1,0 +1,1 @@
+Arduino sketch for Artemis water rocket controller. It can control a servo motor and some sensors via i2c protocol. Data can be sent using bluetooth or a 433mHz module.
